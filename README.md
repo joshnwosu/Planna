@@ -1,2 +1,2 @@
-# planna
+# Planna
 Calendar Events
